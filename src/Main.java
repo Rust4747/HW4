@@ -55,7 +55,7 @@ public class Main {
         {
             int age = 4;
             if (age >= 2 && age <= 6)
-                System.out.println("Идет в ltncrbq cfl");
+                System.out.println("Идет в детский сад");
             else if(age<2 || age>6)
                 System.out.println("Не идет в детский сад, или идет в школу");
         }
